@@ -1,6 +1,6 @@
 # USTOJ
 
-The USTOJ project is combined of three sub project:
+The USTOJ project is combined of three sub projects:
 
 - The frontend: https://github.com/1023198294/ustoj_front
 - The backend: https://github.com/Dexter1636/ustoj-master
