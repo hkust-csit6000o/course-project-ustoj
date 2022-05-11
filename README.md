@@ -1,4 +1,10 @@
-USTOJ
+# USTOJ
+
+The USTOJ project is combined of three sub project:
+
+- The frontend: https://github.com/1023198294/ustoj_front
+- The backend: https://github.com/Dexter1636/ustoj-master
+- The system deployment: https://github.com/KMFtcy/ustoj_deployment.git
 
 Team Member:
 
