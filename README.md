@@ -17,4 +17,4 @@ Contribution:
 - Huang Yangjun: The frontend and the api-server part in backend.
 - Lee TzeFung: The part api-server in backend.
 - Peng Shouheng: The scheduler part in backend.
-- Tang Chaoyang: The system deployment and the scheduler part in backend
+- Tang Chaoyang: The system architecture and the scheduler part in backend
