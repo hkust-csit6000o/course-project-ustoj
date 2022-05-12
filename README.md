@@ -11,3 +11,10 @@ Team Member:
 - Tang Chaoyang(20722537): ctangao@connect.ust.hk
 - Huang Yangjun(20787329): yhuangey@connect.ust.hk
 - Peng Shouheng(20799176): spengad@connect.ust.hk
+
+Contribution:
+
+- Huang Yangjun: The frontend and the api-server part in backend.
+- Lee TzeFung: The part api-server in backend.
+- Peng Shouheng: The scheduler part in backend.
+- Tang Chaoyang: The system deployment and the scheduler part in backend
